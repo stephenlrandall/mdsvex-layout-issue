@@ -1,0 +1,11 @@
+<script>
+	let count = $state(0);
+
+	setInterval(() => {
+		count++;
+	}, 1000);
+</script>
+
+# Svelte 5
+
+This page uses Svelte 5 features and has been open for {count} seconds
